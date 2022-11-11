@@ -13,5 +13,4 @@
 <p> Learned about <b><i>Strings and substring()</b></i> in java. </P>
 #Day7 
 <p>Applying basic's of <i><b>array</b></i></p>
-#Day8
-<p>I will commit all code on new Repo <b><i>100DaysOfCoding</b></i></p>
+
